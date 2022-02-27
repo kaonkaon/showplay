@@ -13,7 +13,7 @@ then
 		text="${title}"
 	fi
 else
-	text="hell yeah"
+	text="No Media Playing"
 fi
 
 echo "$text"
