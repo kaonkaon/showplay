@@ -29,7 +29,7 @@ chmod +x showplay
 ```
 sudo cp showplay /usr/local/bin/
 ```
-### use as Polybar Module
+### use as Polybar Module ![polybar Preview](https://github.com/kaonkaon/showplay/blob/main/polybarpreview.png?raw=true)
 just add this on polybar modules.ini
 ```
 [module/showplay]
@@ -40,6 +40,7 @@ format = <label>
 label = "%output:0:100% "
 ```
 then add the module to your bar
+
 
 ## Contribute(?)
 go ahead, please, don't leave me alone
